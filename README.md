@@ -32,6 +32,10 @@ The **`half_adder.v`** file implements the half-adder logic:
 
 The **`half_adder_tb.v`** file verifies the functionality of the half-adder with multiple test cases. Outputs are logged in the terminal and exported to a **`.vcd`** file for waveform analysis.
 
+## 📸 Screenshots
+![gtkwave_HA](https://github.com/user-attachments/assets/9b47ace7-4e87-4bb4-aeb8-ebc92c3aa223)
+
+
 ## 🌟 Highlights
 
 - Beginner-friendly gate-level design.
