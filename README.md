@@ -6,10 +6,10 @@ Welcome to the **Half-Adder Design** project! 🎉 This repository demonstrates 
 
 | File Name           | Description                                                                 |
 |---------------------|-----------------------------------------------------------------------------|
-| **`half_adder.v`**  | Verilog module implementing the half-adder with gate-level modeling.        |
-| **`half_adder_tb.v`** | Testbench for **`half_adder.v`** to validate sum and carry functionality. |
-| **`half_adder.vcd	`**       | Value Change Dump file generated after simulation for waveform analysis.|
-| **`half_adder.vvp	`**  |Compiled simulation file created by Icarus Verilog        |
+| **(half_adder.v)[https://github.com/VarshithGovi/Half-Adder-Design-Verilog/blob/main/half_adder.v]**  | Verilog module implementing the half-adder with gate-level modeling.        |
+| **(half_adder_tb.v)[https://github.com/VarshithGovi/Half-Adder-Design-Verilog/blob/main/half_adder_tb.v]** | Testbench for **`half_adder.v`** to validate sum and carry functionality. |
+| **(half_adder.vcd)[https://github.com/VarshithGovi/Half-Adder-Design-Verilog/blob/main/half_adder.vcd]**       | Value Change Dump file generated after simulation for waveform analysis.|
+| **(half_adder.vvp)[https://github.com/VarshithGovi/Half-Adder-Design-Verilog/blob/main/half_adder_tb.vvp]**  |Compiled simulation file created by Icarus Verilog        |
 | **`LICENSE`**       | MIT License details.                                                       |
 
 ## 📋 Half-Adder Implementation
